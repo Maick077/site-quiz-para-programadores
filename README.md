@@ -14,3 +14,8 @@ Nele, aplico conceitos de estruturação de páginas, estilização, responsivid
 
 ## 🧠 Objetivo
 Prática de front-end com foco em estrutura de páginas e design responsivo.
+
+## 🚧 Status do projeto
+
+✅ Finalizado como projeto de prática  
+📌 Aberto a melhorias e testes futuros

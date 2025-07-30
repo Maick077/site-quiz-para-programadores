@@ -7,15 +7,15 @@
 }
 
 body {
-    background-color: #FAF0EA;
-    color: #798252;
+    background-color: #F5F5F5;
+    color: #008080;
     font-family: "Cabin", sans-serif;
     font-weight: 400;
 }
 
 header {
     padding: 2rem;
-    background-color: #331f19;
+    background-color: #000000;
     text-align: center;
 }
 
@@ -33,31 +33,31 @@ section {
 }
 
 h2 {
-    color: #331f19;
+    color: #000000;
     font-size: 1.2rem;
 }
 
 input[type='radio'], input[type='checkbox'] {
-    accent-color: #ccd595;
+    accent-color: #4DB6AC;
 }
 
 input[type='text'], input[type='password'], input[type='date'], input[type='email'] {
     width: 100%;
     padding: 0.6rem;
-    border: 2px solid #ccd595;
+    border: 2px solid #4DB6AC;
     outline: none;
     border-radius: 5px;
     background-color: transparent;
 }
 
 input::placeholder {
-    color: #cbbba7;
+    color: #D6D6D6;
 }
 
 select {
     cursor: pointer;
-    background-color: #ccd595;
-    color: #331f19;
+    background-color: #4DB6AC;
+    color: #000000;
     border-radius: 5px;
     border: none;
     outline: none;
@@ -74,30 +74,30 @@ table {
 }
 
 th {
-    background-color: #ccd595;
-    color: #331f19;
+    background-color: #4DB6AC;
+    color: #000000;
     padding: 1rem;
 }
 
 td {
-    color: #331f19;
+    color: #000000;
     padding: 1rem;
     text-align: center;
 }
 
 tfoot td {
-    background-color: #331f19;
-    color: #FAF0EA;
+    background-color: #000000;
+    color: #F5F5F5;
 }
 
 details {
-    background-color: #ccd595;
+    background-color: #4DB6AC;
     border-radius: 5px;
     padding: 1rem;
 }
 
 summary {
-    color: #331f19;
+    color: #000000;
     margin: 0.5rem;
     cursor: pointer;
 }
@@ -111,43 +111,43 @@ ol li {
 }
 
 fieldset {
-    border: 2px solid #ccd595;
+    border: 2px solid #4DB6AC;
     border-radius: 5px;
     padding: 1rem;
 }
 
 legend {
-    color: #331f19;
+    color: #000000;
     padding: 0 0.5rem;
 }
 
 textarea {
     outline: none;
     border-radius: 5px;
-    border: 2px solid #ccd595;
+    border: 2px solid #4DB6AC;
     background-color: transparent;
 }
 
 button {
-    background-color: #ccd595;
+    background-color: #4DB6AC;
     border: none;
     padding: 0.8rem;
-    color: #331f19;
+    color: #000000;
     border-radius: 5px;
     cursor: pointer;
 }
 
 footer {
-    background-color: #331f19;
+    background-color: #000000;
     padding: 2rem;
     text-align: center;
 }
 
 .paragrafo-footer {
-    color: #FAF0EA;
+    color: #F5F5F5;
 }
 
 footer a {
     text-decoration: none;
-    color: #ccd595;
+    color: #4DB6AC;
 }
